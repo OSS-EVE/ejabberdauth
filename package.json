@@ -1,0 +1,16 @@
+{
+  "name": "ejabberdauth",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Michael Ermer <michael.ermer@ermer.de> (https://www.ermer.de/)",
+  "license": "ISC",
+  "dependencies": {
+    "ejabberd-auth": "^0.1.2",
+    "nconf": "^0.8.4",
+    "request": "^2.69.0"
+  }
+}
